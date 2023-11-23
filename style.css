@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.card-img-top {
+    width: 50%;
+    height: 200px;
+    align-self: center;
+}
+.btn-primary, .btn {
+    background-color: #1B2D75;
+    color: white;
+    border: none;
+}
