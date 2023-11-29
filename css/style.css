@@ -1,0 +1,14 @@
+#TextoNome,
+#TextoSobrenome,
+#TextoEmail,
+#TextoTelefone,
+#TextoCPF,
+#TextoCEP,
+#TextoNumero,
+#TextoCidade,
+#TextoBairro,
+#TextoRua,
+#TextoSenha,
+#TextoConfirmacaoSenha {
+    color: #db5a5a;
+}
