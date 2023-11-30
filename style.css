@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.card-img-top {
+    width: 50%;
+    height: 200px;
+    align-self: center;
+}
+
+.btn-primary, .btn {
+    background-color: #1B2D75;
+    color: white;
+    border: none;
+}
+
+.imagens-troca {
+    height: 350px;
+}
+
+.cards-troca {
+    width: 610px;
+}
+
+.cardtroca {
+    height: 100%;
+    width: 100%
+}
+
+.imgpaginatroca {
+    height: 600px;
+}
+
+.icon-link {
+    color: #1B2D75;
+}
+
+.icon-link:hover{
+    color: #ff8000;
+}
