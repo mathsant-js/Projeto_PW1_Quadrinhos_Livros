@@ -1,0 +1,65 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'badaboom';
+    src: url(font/BADABB__.TTF);
+}
+.card-img-top {
+    width: 50%;
+    height: 200px;
+    align-self: center;
+}
+
+.btn-primary, .btn {
+    background-color: #1B2D75;
+    color: white;
+    border: none;
+}
+
+.imagens-troca {
+    height: 350px;
+}
+
+.cards-troca {
+    width: 610px;
+}
+
+.cardtroca {
+    height: 100%;
+    width: 100%
+}
+
+.imgpaginatroca {
+    height: 600px;
+}
+
+.icon-link {
+    color: #1B2D75;
+}
+
+.icon-link:hover{
+    color: #ff8000;
+}
+
+.card {
+    color: white;
+}
+
+.card-body {
+    color: black;
+}
+
+.card {
+    color: white;
+}
+
+.container {
+    margin-top: 50px;
+}
+.payment-confirmation {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #28a745;
+    color: white;
+    border-radius: 10px;
+}
